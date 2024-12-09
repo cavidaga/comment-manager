@@ -1,4 +1,4 @@
-# Comment Manager Pro
+# Comment Manager
 
 A browser extension for bulk comment management on social media platforms. Compatible with both Chrome and Firefox, this extension allows users to efficiently manage multiple comments simultaneously through an intuitive interface with delete, hide, and block functionality.
 
